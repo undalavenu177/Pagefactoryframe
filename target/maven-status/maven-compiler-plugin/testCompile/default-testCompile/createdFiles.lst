@@ -1,0 +1,8 @@
+Utilities\configReader.class
+Pages\Login.class
+Base\BaseSetup.class
+Utilities\WaitUtils.class
+Listeners\Itestlisten.class
+Utilities\ExcelUtility.class
+Utilities\Driverfactory.class
+Testrunner\lgtests.class
